@@ -1,0 +1,28 @@
+.cor-fundo{
+    background-color:#3467eb ;
+
+}
+.cor-fundo2{
+    background-color:yellow ;
+
+}
+.cor-fundo3{
+    background-color:green ;
+
+}
+.cor-titulo{
+    color:red; 
+
+}
+.exercises{
+    border: 2px solid black;
+    bottom: 35%;
+    height: 35%;
+    left:35%;
+    padding: auto 10% auto 10%;
+    position: absolute;
+    right: 25%;
+    text-align: center;
+    top:35%;
+    width: 35%;
+}   
